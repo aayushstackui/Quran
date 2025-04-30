@@ -117,8 +117,8 @@ We welcome contributions! Please follow the steps below to contribute:
 ## 👤 Author
 
 **Aayush Raghuvanshi**  
-- GitHub: [@your-github-handle](https://github.com/your-github-handle)  
-- Email: your.email@example.com  
+- GitHub: [@aayushstackui]([https://github.com/your-github-handle](https://github.com/aayushstackui))  
+- Email: raghuvanshiaayush9999@gmail.com  
 
 
 *Crafted with 🕌 and 🧑‍💻 using SwiftUI, Firebase, and Xcode.*
