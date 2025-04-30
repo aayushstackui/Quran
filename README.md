@@ -120,10 +120,5 @@ We welcome contributions! Please follow the steps below to contribute:
 - GitHub: [@your-github-handle](https://github.com/your-github-handle)  
 - Email: your.email@example.com  
 
-## 📸 Screenshots
-
-*(Insert screenshots here when available)*
-
----
 
 *Crafted with 🕌 and 🧑‍💻 using SwiftUI, Firebase, and Xcode.*
